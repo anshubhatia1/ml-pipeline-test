@@ -1,2 +1,2 @@
 # ml-pipeline-test
-Testing and Learning to create ML Pipeline
+End to end understanding of Creating and using pipelines
